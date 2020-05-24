@@ -1,1 +1,3 @@
 # LTSpice
+
+Amplificateur classe A
